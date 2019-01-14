@@ -1,0 +1,1 @@
+Each of the implementations gave a random/different number for each time the code ran. The threads will interrupt each other and will therefore not complete their for loop, this time beore interrupt is different each time and they each overwrites the value of i.
